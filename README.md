@@ -1,10 +1,3 @@
----
-layout: default
-title: Santiago Miro's Data Science Portfolio
-styles:
-  - style.css
----
-
 # Santiago Miro's Data Science Portfolio
 
 Hello! I'm Santiago Miro, a MSc. Physics graduate from the [University of Alberta](https://en.wikipedia.org/wiki/University_of_Alberta) with a strong passion for data science. Welcome to my public portfolio, where I showcase my skills and share my journey in the realm of data.
