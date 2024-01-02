@@ -2,7 +2,7 @@
 layout: default
 title: Santiago Miro´s Data Science Portfolio
 styles:
-  - /style.css
+  - style.css
 ---
 
 
