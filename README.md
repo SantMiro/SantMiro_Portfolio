@@ -32,6 +32,6 @@ The Stable Diffusion-generated images were accessed from [DB Stable Diffusion](h
 The Human-generated images were both scraped from google and accessed from the source [DB Human Generated](https://huggingface.co/datasets/poloclub/diffusiondb).
 
 <p align="center">
-<img src="./Images/combined_figure.png" width="500" height="300" />
+<img src="./Images/combined_figure.png" width="550" height="250" />
 </p>
 
