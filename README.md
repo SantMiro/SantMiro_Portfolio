@@ -22,3 +22,16 @@ Feel free to reach out to me at: mirot.santiago@gmail.com
 Explore my portfolio to find my CV and a collection of personal projects that implement state-of-the-art Data Science techniques. I am continually excited to bring my technical and analytical skills to a data science role where I can learn, grow, and make a meaningful impact.
 
 If you are looking for a data-driven individual passionate about leveraging data to drive business outcomes, I'd love to connect with you. Let's explore the possibilities together!
+
+## Project 1: [Image Classifier](https://github.com/SantMiro/Image_Classifier)
+
+This GitHub project is a personal endeavor aimed at exploring the classification of AI-generated images using a Convolutional Neural Network (CNN). The CNN is trained to discern between three distinct classes:  DALL-E-2 - generated images, Stable Diffusion-generated images, and Human-made images. 
+
+The DALL-E-2 - generated images were scraped from the source [DALL-E 2 Gallery](https://dalle2.gallery).
+The Stable Diffusion-generated images were accessed from [DB Stable Diffusion](https://huggingface.co/datasets/poloclub/diffusiondb).
+The Human-generated images were both scraped from google and accessed from the source [DB Human Generated](https://huggingface.co/datasets/poloclub/diffusiondb).
+
+<p align="center">
+<img src="./Images/combined_figure.png" width="500" height="300" />
+</p>
+
