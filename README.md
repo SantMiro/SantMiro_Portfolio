@@ -23,7 +23,7 @@ Explore my portfolio to find my CV and a collection of personal projects that im
 
 If you are looking for a data-driven individual passionate about leveraging data to drive business outcomes, I'd love to connect with you. Let's explore the possibilities together!
 
-## Project 1: [Image Classifier](https://github.com/SantMiro/Image_Classifier)
+## [Project 1: Image Classifier](https://github.com/SantMiro/Image_Classifier)
 
 This GitHub project is a personal endeavor aimed at exploring the classification of AI-generated images using a Convolutional Neural Network (CNN). The CNN is trained to discern between three distinct classes:  DALL-E-2 - generated images, Stable Diffusion-generated images, and Human-made images. 
 
@@ -32,6 +32,6 @@ The Stable Diffusion-generated images were accessed from [DB Stable Diffusion](h
 The Human-generated images were both scraped from google and accessed from the source [DB Human Generated](https://huggingface.co/datasets/poloclub/diffusiondb).
 
 <p align="center">
-<img src="./Images/combined_figure.png" width="550" height="250" />
+<img src="./Images/combined_figure.png" width="570" height="230" />
 </p>
 
