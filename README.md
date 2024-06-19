@@ -27,63 +27,66 @@ If you are looking for a data-driven individual passionate about leveraging data
 
 This repository contains all the files used for building a bird song classification model and web app.
 
-The purpose of this application is to develop and train a CNN model for classification of bird songs between different type of species. At this moment there are only five birds in the training catalogue:
+The purpose of this application is to develop and train a CNN model for classification of bird songs between different type of species. The test accuracy of the trained data was 84%.
+
+The web app can be accessed [here](https://bird-song-app-eb9e15e2fa87.herokuapp.com/).
+
+At this moment there are only five birds in the training catalogue:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-<div style="margin: 10px; text-align: center;">
+<div style="margin: 10px; text-align: center; flex: 1;">
   <a href="https://www.allaboutbirds.org/guide/American_Robin/photo-gallery" target="_blank">
-    <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/american_robin.jpg" alt="Bird 1" style="max-width: 150px;">
+    <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/american_robin.jpg" alt="Bird 1" style="width: 100px; height: auto;">
   </a>
-  <h3>American Robin</h3>
-  <p class="author">Author: 
+  <h3 style="font-size: 14px;">American Robin</h3>
+  <p class="author" style="font-size: 12px;">Author: 
     <a href="https://www.allaboutbirds.org/guide/American_Robin/photo-gallery#" target="_blank">Alex Eberts</a>
   </p>
 </div>
 
-<div style="margin: 10px; text-align: center;">
+<div style="margin: 10px; text-align: center; flex: 1;">
   <a href="https://www.allaboutbirds.org/guide/Bewicks_Wren/photo-gallery" target="_blank">
-    <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/bewicks_wren.jpg" alt="Bird 2" style="max-width: 150px;">
+    <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/bewicks_wren.jpg" alt="Bird 2" style="width: 100px; height: auto;">
   </a>
-  <h3>Bewick's Wren</h3>
-  <p class="author">Author: 
+  <h3 style="font-size: 14px;">Bewick's Wren</h3>
+  <p class="author" style="font-size: 12px;">Author: 
     <a href="https://www.allaboutbirds.org/guide/Bewicks_Wren/photo-gallery" target="_blank">Michael Stubblefield</a>
   </p>
 </div>
 
-<div style="margin: 10px; text-align: center;">
+<div style="margin: 10px; text-align: center; flex: 1;">
   <a href="https://www.allaboutbirds.org/guide/Northern_Cardinal/photo-gallery" target="_blank">
-    <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/northern_cardinal.jpg" alt="Bird 3" style="max-width: 150px;">
+    <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/northern_cardinal.jpg" alt="Bird 3" style="width: 100px; height: auto;">
   </a>
-  <h3>Northern Cardinal</h3>
-  <p class="author">Author: 
+  <h3 style="font-size: 14px;">Northern Cardinal</h3>
+  <p class="author" style="font-size: 12px;">Author: 
     <a href="https://www.allaboutbirds.org/guide/Northern_Cardinal/photo-gallery" target="_blank">Suzie McCann</a>
   </p>
 </div>
 
-<div style="margin: 10px; text-align: center;">
+<div style="margin: 10px; text-align: center; flex: 1;">
   <a href="https://www.allaboutbirds.org/guide/Northern_Mockingbird/photo-gallery" target="_blank">
-    <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/northern_mockingbird.jpg" alt="Bird 4" style="max-width: 150px;">
+    <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/northern_mockingbird.jpg" alt="Bird 4" style="width: 100px; height: auto;">
   </a>
-  <h3>Northern Mockingbird</h3>
-  <p class="author">Author: 
+  <h3 style="font-size: 14px;">Northern Mockingbird</h3>
+  <p class="author" style="font-size: 12px;">Author: 
     <a href="https://www.allaboutbirds.org/guide/Northern_Mockingbird/photo-gallery" target="_blank">Jay McGowan</a>
   </p>
 </div>
 
-<div style="margin: 10px; text-align: center;">
+<div style="margin: 10px; text-align: center; flex: 1;">
   <a href="https://www.allaboutbirds.org/guide/Song_Sparrow/photo-gallery" target="_blank">
-    <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/song_sparrow.jpg" alt="Bird 5" style="max-width: 150px;">
+    <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/song_sparrow.jpg" alt="Bird 5" style="width: 100px; height: auto;">
   </a>
-  <h3>Song Sparrow</h3>
-  <p class="author">Author: 
+  <h3 style="font-size: 14px;">Song Sparrow</h3>
+  <p class="author" style="font-size: 12px;">Author: 
     <a href="https://www.allaboutbirds.org/guide/Song_Sparrow/photo-gallery" target="_blank">Jonathan Irons</a>
   </p>
 </div>
 
 </div>
-
-The test accuracy of the trained data was 84%. 
+ 
 
 The data was obtained from [Kaggle](https://www.kaggle.com/datasets/vinayshanbhag/bird-song-data-set) and sourced from [xeno-canto](https://www.xeno-canto.org/).
 
