@@ -114,3 +114,7 @@ Results show that Tryptophan is the metabolite that ranks the highest in feature
 
 See full paper [here](https://github.com/SantMiro/Metabolomics_Analysis/blob/main/Metabolomics_Analysis.pdf).
 
+## [Collection of 100 Python Projects](https://github.com/SantMiro/python_100_projects)
+
+This repository will contain a collection of 100 python projects from begginer level to advanced.
+
