@@ -35,7 +35,7 @@ At this moment there are only five birds in the training catalogue:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-<div style="margin: 10px; text-align: center; flex: 1;">
+<div style="margin: 10px; text-align: center; flex-basis: 20%;">
   <a href="https://www.allaboutbirds.org/guide/American_Robin/photo-gallery" target="_blank">
     <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/american_robin.jpg" alt="Bird 1" style="width: 100px; height: auto;">
   </a>
@@ -45,7 +45,7 @@ At this moment there are only five birds in the training catalogue:
   </p>
 </div>
 
-<div style="margin: 10px; text-align: center; flex: 1;">
+<div style="margin: 10px; text-align: center; flex-basis: 20%;">
   <a href="https://www.allaboutbirds.org/guide/Bewicks_Wren/photo-gallery" target="_blank">
     <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/bewicks_wren.jpg" alt="Bird 2" style="width: 100px; height: auto;">
   </a>
@@ -55,7 +55,7 @@ At this moment there are only five birds in the training catalogue:
   </p>
 </div>
 
-<div style="margin: 10px; text-align: center; flex: 1;">
+<div style="margin: 10px; text-align: center; flex-basis: 20%;">
   <a href="https://www.allaboutbirds.org/guide/Northern_Cardinal/photo-gallery" target="_blank">
     <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/northern_cardinal.jpg" alt="Bird 3" style="width: 100px; height: auto;">
   </a>
@@ -65,7 +65,7 @@ At this moment there are only five birds in the training catalogue:
   </p>
 </div>
 
-<div style="margin: 10px; text-align: center; flex: 1;">
+<div style="margin: 10px; text-align: center; flex-basis: 20%;">
   <a href="https://www.allaboutbirds.org/guide/Northern_Mockingbird/photo-gallery" target="_blank">
     <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/northern_mockingbird.jpg" alt="Bird 4" style="width: 100px; height: auto;">
   </a>
@@ -75,7 +75,7 @@ At this moment there are only five birds in the training catalogue:
   </p>
 </div>
 
-<div style="margin: 10px; text-align: center; flex: 1;">
+<div style="margin: 10px; text-align: center; flex-basis: 20%;">
   <a href="https://www.allaboutbirds.org/guide/Song_Sparrow/photo-gallery" target="_blank">
     <img src="https://github.com/SantMiro/Song_Bird_App/raw/main/static/images/song_sparrow.jpg" alt="Bird 5" style="width: 100px; height: auto;">
   </a>
@@ -86,6 +86,7 @@ At this moment there are only five birds in the training catalogue:
 </div>
 
 </div>
+
  
 
 The data was obtained from [Kaggle](https://www.kaggle.com/datasets/vinayshanbhag/bird-song-data-set) and sourced from [xeno-canto](https://www.xeno-canto.org/).
