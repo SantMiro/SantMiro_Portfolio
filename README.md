@@ -25,7 +25,7 @@ If you are looking for a data-driven individual passionate about leveraging data
 
 ## [Project 1: Bird Song Classification App](https://github.com/SantMiro/Song_Bird_App)
 
-This repository contains all the files used for building a bird song classification model and web app.
+This repository contains all the files used for building a bird song classification model and web app using Flask.
 
 The purpose of this application is to develop and train a CNN model for classification of bird songs between different type of species. The test accuracy of the trained data was 84%.
 
