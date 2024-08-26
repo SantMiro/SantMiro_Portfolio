@@ -2,9 +2,6 @@
 
 Hello! I'm Santiago Miro, a MSc. Physics graduate from the [University of Alberta](https://en.wikipedia.org/wiki/University_of_Alberta) with a strong passion for data science and software engineering. Welcome to my public portfolio, where I showcase my skills and share my journey in the realm of data.
 
-## About Me
-With a solid foundation in mathematics, statistics, and data visualization, I've developed innovative solutions to complex problems over the course of my three-year experience in software development and data science. My unique blend of analytical and technical skills enables me to analyze intricate data sets, identify patterns, and extract meaningful insights.
-
 ## Contact Information
 
 Feel free to reach out to me at: mirot.santiago@gmail.com
@@ -21,9 +18,19 @@ Feel free to reach out to me at: mirot.santiago@gmail.com
 
 Explore my portfolio to find my CV and a collection of personal projects that implement state-of-the-art Data Science techniques. I am continually excited to bring my technical and analytical skills to a data science role where I can learn, grow, and make a meaningful impact.
 
-If you are looking for a data-driven individual passionate about leveraging data to drive business outcomes, I'd love to connect with you. Let's explore the possibilities together!
 
-## [Project 1: Bird Song Classification App](https://github.com/SantMiro/Song_Bird_App)
+## [Project 1: Generative AI Data Augmentation Tool](https://github.com/SantMiro/AI_Data_Augmentation_Tool)
+
+This repository contains a data augmentation tool that utilizes a Generative Adversarial Network (GAN) to synthesize tabular data, specifically tailored for the detection of credit card fraud. The primary goal of this project is to tackle the issue of class imbalance in fraud detection datasets by generating realistic synthetic data, improving the robustness of predictive models.
+
+![GAN Model](https://github.com/SantMiro/AI_Data_Augmentation_Tool/blob/main/notebooks/pipelines.png?raw=true)
+
+## Features
+* Generative Adversarial Network (GAN): A GAN trained to generate synthetic credit card transaction data while preserving critical patterns.
+* Data Augmentation: This tool generates additional fraud and non-fraud samples, balancing the dataset and improving model performance.
+* Flask Web Application: The app provides a user-friendly interface for generating synthetic data and integrating it with existing datasets.
+* Containerized Deployment: Dockerized for easy deployment on cloud platforms or local environments.
+## [Project 2: Bird Song Classification App](https://github.com/SantMiro/Song_Bird_App)
 
 This repository contains all the files used for building a bird song classification model and web app using Flask.
 
@@ -91,7 +98,7 @@ At this moment there are only five birds in the training catalogue:
 
 The data was obtained from [Kaggle](https://www.kaggle.com/datasets/vinayshanbhag/bird-song-data-set) and sourced from [xeno-canto](https://www.xeno-canto.org/).
 
-## [Project 2: Image Classifier](https://github.com/SantMiro/Image_Classifier)
+## [Project 3: Image Classifier](https://github.com/SantMiro/Image_Classifier)
 
 This GitHub project is a personal endeavor aimed at exploring the classification of AI-generated images using a Convolutional Neural Network (CNN). The CNN is trained to discern between three distinct classes:  DALL-E-2 - generated images, Stable Diffusion-generated images, and Human-made images. 
 
@@ -103,7 +110,7 @@ The Human-generated images were both scraped from google and accessed from the s
 <img src="./Images/combined_figure.png" width="570" height="230" />
 </p>
 
-## [Project 3: International Space Station Distance Calculator](https://github.com/SantMiro/ISS-Distance)
+## [Project 4: International Space Station Distance Calculator](https://github.com/SantMiro/ISS-Distance)
 
 
 This Flask app calculates the distance from your location to the International Space Station (ISS). Deployed on Google Cloud Platform (GCP), the app retrieves the current position of the ISS via its open API. It then asks the user to provide a valid address, which is converted to coordinates using GCP API credentials. The app calculates the distance between the user's coordinates and the ISS using the Haversine formula.
@@ -126,7 +133,7 @@ As an additional feature, if the ISS and the user are in the same country, the a
 
 
 
-## [Project 4: Metabolomic Analysis in Pediatric Crohn's Disease Patients: A Machine Learning Approach](https://github.com/SantMiro/Metabolomics_Analysis)
+## [Project 5: Metabolomic Analysis in Pediatric Crohn's Disease Patients: A Machine Learning Approach](https://github.com/SantMiro/Metabolomics_Analysis)
 
 
 The objective of this work is to perform an exploratory data analysis on serum metabolomics from 56 pCD patients. Samples were collected twice: once at study initiation (Visit One) and again for completion (Visit Four). The collected serum underwent liquid chromatography followed by mass spectrometry to identify 131 compounds.
