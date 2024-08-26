@@ -30,6 +30,7 @@ This repository contains a data augmentation tool that utilizes a Generative Adv
 * Data Augmentation: This tool generates additional fraud and non-fraud samples, balancing the dataset and improving model performance.
 * Flask Web Application: The app provides a user-friendly interface for generating synthetic data and integrating it with existing datasets.
 * Containerized Deployment: Dockerized for easy deployment on cloud platforms or local environments.
+
 ## [Project 2: Bird Song Classification App](https://github.com/SantMiro/Song_Bird_App)
 
 This repository contains all the files used for building a bird song classification model and web app using Flask.
